@@ -28,7 +28,7 @@ Sou um desenvolvedor e arquiteto de soluções com mais de 18 anos de experiênc
 - `Azure`
 
 **Banco de Dados:**
-- `MySQL`, `PostgreSQL`, `MongoDB`, `Redis`
+- `MySQL`, `PostgreSQL`, `Sql Server`, `MongoDB`, `Redis`
 
 **Outros:**
 - `GraphQL`, `REST APIs`, `WebSocket`, `RabbitMQ`
