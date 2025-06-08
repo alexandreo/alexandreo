@@ -24,7 +24,8 @@ Sou um desenvolvedor e arquiteto de soluções com mais de 18 anos de experiênc
 - `Docker`, `Kubernetes`, `GitHub Actions`, `Jenkins`, `Nginx`
 
 **Cloud:**
-- `AWS` (EC2, S3, RDS, CloudFront)
+- `AWS`
+- `Google Cloud`
 - `Azure`
 
 **Banco de Dados:**
