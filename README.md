@@ -49,7 +49,7 @@ Sou um desenvolvedor e arquiteto de soluções com mais de 10 anos de experiênc
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-oliveira-3b9a8441/)
-- 📧 `alexandre@seudominio.com`
+- 📧 `contato@alexandreo.com.br`
 
 ---
 
