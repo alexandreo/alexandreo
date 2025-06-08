@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Alexandre Oliveira
 
-Sou um desenvolvedor e arquiteto de soluções com mais de 10 anos de experiência em tecnologia, atuando no desenvolvimento de sistemas escaláveis, integração de APIs, cloud computing e liderança técnica. Minha trajetória envolve desde o backend robusto com PHP e .NET até soluções modernas com Go, microsserviços e arquitetura em nuvem.
+Sou um desenvolvedor e arquiteto de soluções com mais de 18 anos de experiência em tecnologia, atuando no desenvolvimento de sistemas escaláveis, integração de APIs, cloud computing e liderança técnica. Minha trajetória envolve desde o backend robusto com PHP e .NET até soluções modernas com Go, microsserviços e arquitetura em nuvem.
 
 ## 💼 Experiência Profissional
 
