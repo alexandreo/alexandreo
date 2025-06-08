@@ -34,11 +34,6 @@ Sou um desenvolvedor e arquiteto de soluções com mais de 18 anos de experiênc
 - `GraphQL`, `REST APIs`, `WebSocket`, `RabbitMQ`
 - `Clean Architecture`, `DDD`, `TDD`, `SOLID`
 
-## 📚 Formação & Certificações
-
-- Bacharel em Sistemas de Informação
-- Certificações em Cloud, Arquitetura e Métodos Ágeis (Scrum, Kanban)
-
 ## 🚀 Projetos e Interesses
 
 - Sistemas SaaS modulares
